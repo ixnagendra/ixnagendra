@@ -1,7 +1,7 @@
 
 # 💫 Hi 👋, I'm Nagendra
 
-**BTech CSE Student | Python & C Programmer**
+**BTech CSE Student**
 
 - 💻 **Currently Learning:** Python, C, DSA & Computer Networking
 - 🚀 **Currently Working On:** Cyber Security & Software Projects
